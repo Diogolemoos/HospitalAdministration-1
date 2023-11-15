@@ -4,7 +4,6 @@
  */
 package hospitaladministration;
 
-import static hospitaladministration.Database.DB_BASE_URL;
 import static hospitaladministration.Database.PASSWORD;
 import static hospitaladministration.Database.USER;
 import java.sql.Connection;
